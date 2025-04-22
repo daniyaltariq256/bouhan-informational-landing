@@ -1,0 +1,21 @@
+/********************************************/
+/* Theme Name: PaperStreet                  */
+/* Theme URI: https://www.bouhan.com/       */
+/* Author: PaperStreet                      */
+/* Author URI: https://www.paperstreet.com   */
+/* Description: For Bouhan Falligant LLP    */
+/* Version: 1.0                             */
+/********************************************/
+/*****************/
+/* CSS Scripts   */
+/*****************/
+/* - Foundation  */
+/* - Fonts       */
+/* - FontAwesome */
+/* - Reset       */
+/* - Slick       */
+/* - Magnific    */
+/* - Style       */
+/*****************/
+@import url('vendor.css');
+@import url('main.css');
